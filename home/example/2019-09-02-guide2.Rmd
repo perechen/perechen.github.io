@@ -1,0 +1,31 @@
+---
+
+title: Example Page 3
+author: Artjoms Šeļa
+date: '2019-09-02'
+slug: guide2
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2019-09-02T19:47:08+03:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+## Tip 1
+
+FWFWFWFWF
+DO it
+
+## Tip 2
+
+
+Run the code and check the output
+```{r}
+2+2
+```
